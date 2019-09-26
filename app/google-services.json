@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124037386183",
+    "firebase_url": "https://tiket-45f19.firebaseio.com",
+    "project_id": "tiket-45f19",
+    "storage_bucket": "tiket-45f19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124037386183:android:8044678f6d7b5daab693e2",
+        "android_client_info": {
+          "package_name": "com.example.tiket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124037386183-jkqe631ikr2fq8pruqlff50p09f1qfqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XHc0Et01stYNIMz3HjUNhqCWzI6zo6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124037386183-jkqe631ikr2fq8pruqlff50p09f1qfqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
